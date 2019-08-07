@@ -1,1 +1,1 @@
-# core
+# Pure dot net core app
